@@ -24,3 +24,8 @@ version:          0.0.1
 
 github:
   repo:           https://github.com/themouli
+
+pages_list:
+  About: 		  '/about'
+  Archive: 		  '/archive'
+  Feed:			  '/atom.xml'
