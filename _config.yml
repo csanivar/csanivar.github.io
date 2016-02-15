@@ -10,6 +10,7 @@ title:            Mouli
 tagline:          'Stay away. Personal space.'
 description:      'Fine. I admit: I am mouli'
 url:              http://themouli.github.io
+baseurl:		  /
 
 author:
   name:           'Chandramouleshwar Sanivarapu'

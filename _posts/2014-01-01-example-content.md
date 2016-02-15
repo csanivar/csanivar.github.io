@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Example content
+category: tutorail
+tags: [education, sample, blog, programming, ]
 ---
 
 
