@@ -33,4 +33,4 @@ pages_list:
   About: 		  '/about'
   Archive: 		'/archive'
   Tags:       '/tags'
-  Feed:			  '/atom.xml'
+  Subscribe:	'/atom.xml'
