@@ -28,6 +28,7 @@ github:
   repo:           https://github.com/themouli
 
 pages_list:
+  Home:       '/'
   About: 		  '/about'
   Archive: 		'/archive'
   Tags:       '/tags'
