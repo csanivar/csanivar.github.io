@@ -3,8 +3,13 @@ layout: page
 title: Archive
 ---
 
-## Blog Posts
-
+<ul class="post-list">
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+  <li>
+  	<span class="post-meta">{{ post.date | date_to_string }}</span> 
+  	<h2>
+  		<a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+  	</h2>
+  </li>
 {% endfor %}
+</ul>

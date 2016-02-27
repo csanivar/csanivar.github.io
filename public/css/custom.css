@@ -70,3 +70,37 @@
    border-left-color: #000000;
 }
 /* [END] POST TAGS STYLING*/
+
+/* Posts archive */
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+  text-align: center;
+}
+.post-list h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.post-list > li {
+    padding-top: 13.33333px;
+    padding-bottom: 13.33333px;
+    border-top: 1px solid #e8e8e8;
+    transition: 0.2s ease; 
+}
+.post-list > li:hover {
+      transition: 0.2s ease;
+      background: #f7f7f7;
+}
+.post-list > li:first-child {
+      border: 0; 
+}
+.post-meta {
+  font-size: 14px;
+  color: #828282;
+}
+
+.post-link {
+  display: block;
+  font-size: 24px; 
+}
