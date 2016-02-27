@@ -6,12 +6,12 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Mouli
-tagline:          'Stay away. Personal space.'
-description:      'Fine. I admit: I am mouli'
-url:              http://themouli.github.io
-baseurl:          '/'
-paginate:         5
+title:             Mouli
+tagline:           'Stay away. Personal space.'
+description:       'Fine. I admit: I am mouli'
+url:               http://themouli.github.io
+baseurl:           '/'
+paginate:          5
 excerpt_separator: '<br>'
 gems: 
 - jekyll-paginate
@@ -19,13 +19,10 @@ gems:
 author:
   name:           'Chandramouleshwar Sanivarapu'
   url:            https://twitter.com/themouli
-  email:		  mouli.4543@gmail.com
-  github:		  themouli
-  twitter:		  themouli
+  email:		      mouli.4543@gmail.com
+  github:		      themouli
+  twitter:		    themouli
   gravatar_md5:	  4ff7017ab07ee94812cd8eefb8adf7ca
-
-# Custom vars
-version:          0.0.1
 
 github:
   repo:           https://github.com/themouli
