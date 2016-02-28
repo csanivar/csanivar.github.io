@@ -13,7 +13,7 @@ One of the perks of using Jekyll is that many awesome people around the world ha
 
 Lanyon didn't come with some of the specific things I wanted. So I did some more research, like always, and finally ended up with [this](https://themouli.github.io). Many people wrote about how to set up a clean blog using Jekyll and Lanyon, so I will ignore that area. Below are most of the links that helped me make this.
 
-##Resources
+## Resources
 
 - [Setting up Github pages](https://pages.github.com/)
 - [List of sites that use Jekyll](https://github.com/jekyll/jekyll/wiki/Sites) 
