@@ -3,6 +3,7 @@ layout: post
 title: The Meta Post
 comments: True
 permalink: the-meta-post
+rebirect_from: 2016/02/28/the-meta-post
 tags: [programming, blog, meta ]
 ---
 
