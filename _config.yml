@@ -13,11 +13,13 @@ url:               http://themouli.github.io
 baseurl:           '/'
 paginate:          5
 excerpt_separator: '<br>'
+image: 'https://s.gravatar.com/avatar/{{ site.author.gravatar_md5 }}?s=280'
 gems: 
 - jekyll-paginate
 
 author:
-  name:           'Chandramouleshwar Sanivarapu'
+  name:           'Chandramouleshwar S'
+  bio: 'Just a guy with internet connection'
   url:            https://twitter.com/themouli
   email:		      mouli.4543@gmail.com
   github:		      themouli
