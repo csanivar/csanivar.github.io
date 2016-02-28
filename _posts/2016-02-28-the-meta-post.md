@@ -2,6 +2,7 @@
 layout: post
 title: The Meta Post
 comments: True
+permalink: the-meta-post
 tags: [programming, blog, meta ]
 ---
 
