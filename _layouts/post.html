@@ -31,7 +31,9 @@ layout: default
   <section class="author">
       <h4><a href="{{ site.baseurl }}author/{{ site.nickname }}">{{ site.author.name }}</a></h4>
       
-      {% if site.author.bio %}
+      {% if page.remark %}
+          <p> {{ page.remark }}</p>
+      {% elsif site.author.bio %}
           <p> {{ site.author.bio }}</p>
       {% else %}
           <p>Read <a href="{{ site.baseurl }}author/{{ site.nickname }}">more posts</a> by this author.</p>
