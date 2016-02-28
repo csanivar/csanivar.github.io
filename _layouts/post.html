@@ -24,19 +24,19 @@ layout: default
 
   {% if site.image %}
   <figure class="author-image">
-      <a class="img" href="{{ site.url }}/about" style="background-image: url(https://s.gravatar.com/avatar/{{ site.author.gravatar_md5 }}?s=280)"><span class="hidden">{{ page.author }}'s Picture</span></a>
+      <a class="img" href="{{ site.url }}/about" style="background-image: url({{site.image}})"><span class="hidden">{{ page.author }}'s Picture</span></a>
   </figure>
   {% endif %}
 
   <section class="author">
-      <h4><a href="{{ site.baseurl }}author/{{ site.nickname }}">{{ site.author.name }}</a></h4>
+      <h4><a href="{{ site.baseurl }}about/">{{ site.author.name }}</a></h4>
       
       {% if page.remark %}
           <p> {{ page.remark }}</p>
       {% elsif site.author.bio %}
           <p> {{ site.author.bio }}</p>
       {% else %}
-          <p>Read <a href="{{ site.baseurl }}author/{{ site.nickname }}">more posts</a> by this author.</p>
+          <p>Read <a href="{{ site.baseurl }}archive/">more posts</a> by this author.</p>
       {% endif %}
       <div class="author-meta">
           {% if site.location %}<span class="author-location icon-location"> {{ site.location }}</span>{% endif %} 

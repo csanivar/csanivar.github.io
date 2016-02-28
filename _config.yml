@@ -13,7 +13,8 @@ url:               http://themouli.github.io
 baseurl:           '/'
 paginate:          5
 excerpt_separator: '<br>'
-image: 'https://s.gravatar.com/avatar/{{ site.author.gravatar_md5 }}?s=280'
+image: 'https://s.gravatar.com/avatar/4ff7017ab07ee94812cd8eefb8adf7ca?s=280'
+
 gems: 
 - jekyll-paginate
 
