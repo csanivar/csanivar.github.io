@@ -7,7 +7,7 @@ rebirect_from: 2016/02/28/the-meta-post
 tags: [programming, blog, meta ]
 ---
 
-I like it when people write about how they solved a particular problem or when they rant about something they found on internet. I want to be one of those people. <br> That led to me thinking of setting up own website blog thingy. I decided to host this on github as I didn't want to buy my own server and also because github supports [Jekyll](https://jekyllrb.com/).
+I like it when people write about how they solved a particular problem or when they rant about something they found on internet. I want to be one of those people. <br> That led to me thinking of setting up my own website blog thingy. I decided to host this on github as I didn't want to buy my own server and also because github supports [Jekyll](https://jekyllrb.com/).
 
 One of the perks of using Jekyll is that many awesome people around the world have made a lot of themes which are open source. And I didn't want to make the entire thing from scratch. All I had to do was search for a theme that appeases me. So after doing some research(this actually took me two days) I decided on using [Lanyon](http://lanyon.getpoole.com/). 
 
