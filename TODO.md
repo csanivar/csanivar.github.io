@@ -1,3 +1,3 @@
-- [ ] [Twitter Plugin](http://joshualande.com/jekyll-github-pages-poole/)
-- [ ] [Disqus Comments](http://joshualande.com/jekyll-github-pages-poole/)
-- [ ] Default footer for sharng on social media with author signature
+- [✓] [Twitter Plugin](http://joshualande.com/jekyll-github-pages-poole/)
+- [✓] [Disqus Comments](http://joshualande.com/jekyll-github-pages-poole/)
+- [✓] Default footer for sharng on social media with author signature
