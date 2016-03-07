@@ -14,15 +14,11 @@ title: Home
 
     <div>
       <span class="post-date" style="float: left;">{{ post.date | date_to_string }}</span>
-      <span class="post-date" data-post-url="{{ post.url }}" style="float: right;"></span>
     </div>
-    <div style="clear: both;"></div>​
-
-    {{ post.excerpt }}
-
-    <a href="{{ post.url }}">
-        but wait, there's more...
-    </a>
+    <div style="clear: both;">
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">but wait, there's more...</a>
+    </div>​
   </div>
   {% endfor %}
 </div>
