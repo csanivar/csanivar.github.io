@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: So who is this, anyway ?
 ---
 
 Hi, my name is Chandramouleshwar. This is my little website blog thingy for the everyday stuff I do on the internet. I am an undergraduate student at IIT Bombay. I spend most of my precious little time on reddit, programming, TV, and fiction. Let me end this with a not-so-original quote.
