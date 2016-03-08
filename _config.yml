@@ -39,4 +39,4 @@ pages_list:
   About: 		  '/about'
   Archive: 		'/archive'
   Tags:       '/tags'
-  Subscribe:	'/atom.xml'
+  RSS:	'/atom.xml'
