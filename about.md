@@ -3,7 +3,9 @@ layout: page
 title: So who is this, anyway ?
 ---
 
-Hi, my name is Chandramouleshwar. This is my little website blog thingy for the everyday stuff I do on the internet. I am an undergraduate student at IIT Bombay. I spend most of my precious little time on reddit, programming, TV, and fiction. Let me end this with a not-so-original quote.
+So who is this, anyway ?
+
+I wonder that myself, sometimes. I am known as Chandramouleshwar and this is my little website blog thingy for the everyday stuff I do on the internet. I am an undergraduate student at IIT Bombay. I spend most of my precious little time on reddit, programming, TV, and fiction. Let me end this with a not-so-original quote.
 
 <blockquote class="message">
 That which can be optimized should be.
