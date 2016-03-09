@@ -1,6 +1,6 @@
 ---
 layout: page
-title: So who is this, anyway ?
+title: About
 ---
 
 So who is this, anyway ?
