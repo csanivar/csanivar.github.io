@@ -7,15 +7,15 @@ kramdown:
   syntax_highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:             Mouli
-tagline:           'Stay away. Personal space.'
-description:       'Fine. I admit: I am mouli'
-url:               http://themouli.github.io
-baseurl:           '/'
-paginate:          5
+title: Mouli
+tagline: 'Stay away. Personal space.'
+description: 'Fine. I admit: I am mouli'
+url: http://themouli.github.io
+baseurl: '/'
+paginate: 5
 excerpt_separator: '<br>'
 image: 'https://s.gravatar.com/avatar/4ff7017ab07ee94812cd8eefb8adf7ca?s=280'
 
@@ -23,20 +23,20 @@ gems:
 - jekyll-paginate
 
 author:
-  name:           'Chandramouleshwar S'
+  name: 'Chandramouleshwar S'
   bio: 'Just a guy with internet connection'
-  url:            https://twitter.com/themouli
-  email:		      mouli.4543@gmail.com
-  github:		      themouli
-  twitter:		    themouli
-  gravatar_md5:	  4ff7017ab07ee94812cd8eefb8adf7ca
+  url: https://twitter.com/themouli
+  email: mouli.4543@gmail.com
+  github: themouli
+  twitter: themouli
+  gravatar_md5: 4ff7017ab07ee94812cd8eefb8adf7ca
 
 github:
-  repo:           https://github.com/themouli
+  repo: https://github.com/themouli
 
 pages_list:
-  Home:       '/'
-  About: 		  '/about'
-  Archive: 		'/archive'
-  Tags:       '/tags'
-  RSS:	'/atom.xml'
+  Home: '/'
+  About: '/about'
+  Archive: '/archive'
+  Tags: '/tags'
+  RSS: 'atom.xml'
