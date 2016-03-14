@@ -4,7 +4,7 @@ title: The Meta Post
 comments: True
 permalink: the-meta-post
 rebirect_from: 2016/02/28/the-meta-post
-tags: [programming, blog, meta ]
+tags: [programming, meta ]
 ---
 
 I like it when people write about how they solved a particular problem or when they rant about something they found on internet. I want to be one of those people. <br> That led to me thinking of setting up my own website blog thingy. I decided to host this on github as I didn't want to buy my own server and also because github supports [Jekyll](https://jekyllrb.com/).
