@@ -12,7 +12,7 @@ permalink: pretty
 # Setup
 title: Mouli
 tagline: 'Stay away. Personal space.'
-description: 'Fine. I admit: I am mouli'
+description: "I tried not making this, but then that didn't work out so well."
 url: http://themouli.github.io
 baseurl: '/'
 paginate: 5
