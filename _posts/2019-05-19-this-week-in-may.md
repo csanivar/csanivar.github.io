@@ -8,7 +8,7 @@ remark: Please enable dark mode
 tags: [random]
 ---
 
-So I revived this blog last week or so I wanted to updated it again to keep it from getting inactive and dying.
+So I revived this blog last week and so I wanted to updated it again to keep it from getting inactive and dying.
 I have been journaling lately[1] but I am not too open to post all that here, and so I wanted to post some of the things I found this previous week.<br>
 
 
