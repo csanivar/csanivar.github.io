@@ -4,6 +4,7 @@ title: This week in May
 comments: False
 permalink: this-week-in-may-19
 rebirect_from: 2019/05/19/this-week-in-may-19
+remark: Please enable dark mode
 tags: [random]
 ---
 
@@ -16,12 +17,12 @@ I found the following through YouTube Music recommendations while listening to T
 - [Mammal Hands - Boreal Forest](https://www.youtube.com/watch?v=bmjFJd6q4Es)
 - [Mammal Hands - Quiet Fire](https://www.youtube.com/watch?v=wpC5NRhLbuM)
 - [Mammal Hands - Hourglass](https://www.youtube.com/watch?v=z1GwbvxJ4aM)
-- [GoGo Penguin - Raven|Bardo|Window](https://www.youtube.com/watch?v=47XlUL6sRow)
+- [GoGo Penguin - Raven\|Bardo\|Window](https://www.youtube.com/watch?v=47XlUL6sRow)
 
 ## Anime
 I have been following One Punch Man lately and a few friends suggested to watch these:  
 - [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
-  - I think this is by the same creators of One Punch Man. I only watched one episode and it was really good. From what I got from the first episode, this too, like OPM, has a overpowered protagonist. And there were so many good jokes in the first episode itself. I might watch it some where sometime later this week. But I have my GRE soon, so I don't know how much I will get watch.
+  - I think this is by the same creators of One Punch Man. I only watched one episode and it was really good. From what I got from the first episode, this too, like OPM, has a overpowered protagonist. And there were so many good jokes in the first episode itself. I might watch it sometime later this week. But I have my GRE soon, so I don't know how much I will get to watch.
 - [Devilman: Crybaby](https://myanimelist.net/anime/35120/Devilman__Crybaby)
   - The animation of this was really unexpected.
 
