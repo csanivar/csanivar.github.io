@@ -19,16 +19,16 @@ paginate: 5
 excerpt_separator: '<br>'
 image: 'https://s.gravatar.com/avatar/4ff7017ab07ee94812cd8eefb8adf7ca?s=280'
 
-gems: 
+gems:
 - jekyll-paginate
 
 author:
   name: 'Chandra Mouli'
   bio: 'Just a guy with internet connection'
-  url: https://twitter.com/themouli
+  url: https://twitter.com/pemulism
   email: mouli.4543@gmail.com
   github: themouli
-  twitter: themouli
+  twitter: pemulism
   gravatar_md5: 4ff7017ab07ee94812cd8eefb8adf7ca
 
 github:
