@@ -13,7 +13,7 @@ permalink: pretty
 title: Mouli
 tagline: 'Stay away. Personal space.'
 description: "I tried not making this, but then that didn't work out so well."
-url: http://themouli.github.io
+url: http://csanivar.github.io
 baseurl: '/'
 paginate: 5
 excerpt_separator: '<br>'
@@ -25,14 +25,14 @@ gems:
 author:
   name: 'Chandra Mouli'
   bio: 'Just a guy with internet connection'
-  url: https://twitter.com/pemulism
-  email: mouli.4543@gmail.com
-  github: themouli
-  twitter: pemulism
+  url: https://twitter.com/m_o_u_l_i
+  email: mouli[dot]4543@gmail[dot]com
+  github: csanivar
+  twitter: m_o_u_l_i
   gravatar_md5: 4ff7017ab07ee94812cd8eefb8adf7ca
 
 github:
-  repo: https://github.com/themouli
+  repo: https://github.com/csanivar
 
 pages_list:
   Home: '/'
